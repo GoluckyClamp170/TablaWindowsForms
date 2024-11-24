@@ -1,0 +1,17 @@
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.exe
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.deps.json
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.runtimeconfig.json
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.dll
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.pdb
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.Form1.resources
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.Properties.Resources.resources
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.csproj.GenerateResource.cache
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.AssemblyInfoInputs.cache
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.AssemblyInfo.cs
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.csproj.CoreCompileInputs.cache
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.dll
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\refint\Tabla.dll
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.pdb
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.genruntimeconfig.cache
+C:\Users\Luis Donaldo\Documents\Programación II 2024\Parcial III\3.- C#5\Tarea practica #1\Tabla\Tabla\obj\Debug\net6.0-windows\ref\Tabla.dll
